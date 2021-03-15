@@ -1,0 +1,8 @@
+{
+  "name": "carb-cycling",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "7e2a0b90"
+}
